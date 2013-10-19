@@ -77,4 +77,3 @@ class HTTPWorker
 end
 
 
-HTTPServer.new(4000)
